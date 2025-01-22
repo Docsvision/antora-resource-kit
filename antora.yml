@@ -1,6 +1,5 @@
 name: resource-kit
 version: 'dev'
-display_version: 'dev'
 prerelease: true
 title: Комплект утилит Resource Kit
 asciidoc:
