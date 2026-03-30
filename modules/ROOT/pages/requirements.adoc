@@ -1,13 +1,10 @@
 = Необходимые ресурсы
 
 [#server]
-== Требования серверной части модуля
+== Требования к ОС
 
 [#linux]
-.Для установки на Linux:
-* Astra Linux Special Edition {l-1}.
-* Astra Linux Special Edition {l-1-1}.
-* {l-2}.
+* Версии Windows, совместимые с .NET 8.0, см. подробнее на https://learn.microsoft.com/en-us/dotnet/core/install/windows#supported-versions[сайте Microsoft].
 
 [#hardware]
 == Необходимое техническое обеспечение
@@ -19,6 +16,6 @@
 
 Требуется установить перечисленные ниже модули, настраивать не нужно.
 
-. Клиентская часть модуля {pl} версии {pl-req}.
+. Клиентская часть модуля {pl} версии {pl-req} и выше.
 // . Серверная часть модуля {wincl} версии {wins-req}.
-. Клиентская часть модуля {wincl} версии {winc-req}.
+. Клиентская часть модуля {wincl} версии {winc-req} и выше.
